@@ -13,3 +13,9 @@ You can use this repository to practice using Git and GitHub
 ## Contributors
 
 The Desmond .
+
+This is **Bold**
+
+This is an _Italic_
+
+[kangah.com](http://Kangah.com)
