@@ -20,3 +20,9 @@ I am an aspiring **geospatial engineer**
 ![myset_sup](https://i.pinimg.com/736x/9d/f7/6a/9df76afe83fef8382c6eb6330f089214.jpg)
 
 ![Chaseing the dream](https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/03/attachment_97824570.gif?auto=format&q=60&fit=max&w=930)
+
+```
+pip install uv
+uv pip install geospatial
+
+```
