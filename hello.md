@@ -1,3 +1,8 @@
 ## Hello
 
-### This is Nana Calipo
+### This is an Introduction
+
+I am a young geospatial engineer try to and forcing to be somebody in life
+
+### About Me
+I am a science student who completed shama senior high school and did my undergrad at the university of mines and technology with degree in Geomatic Engineering
